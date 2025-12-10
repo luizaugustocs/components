@@ -4,7 +4,9 @@
       "Bash(yarn install:*)",
       "Bash(yarn test:*)",
       "Bash(yarn build)",
-      "Bash(yarn add:*)"
+      "Bash(yarn add:*)",
+      "Bash(git remote set-url:*)",
+      "Bash(ssh:*)"
     ]
   }
 }
